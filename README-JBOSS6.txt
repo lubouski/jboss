@@ -1,0 +1,1 @@
+# JSOBOSS 6 test file
